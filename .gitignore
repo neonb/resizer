@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+
+/Resizer/Resources/*.exe
+**/PublishProfiles/*.pubxml.user
